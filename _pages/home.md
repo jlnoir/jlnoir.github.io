@@ -14,6 +14,7 @@ A noté que cette application et commandable depuis une interface web ainsi :
 
 __Techniques :__ Application réalisée avec Java SEE, 
 Maven pour le déploiement, log4j pour les logs.
+
 __Compétences :__ Interacions avec un FTP, gestion des status et des cas particuliers
 
 ---
@@ -22,7 +23,8 @@ __Compétences :__ Interacions avec un FTP, gestion des status et des cas partic
 Application permettant de verifier la durée d'une vidéo sur le compte youtube
 Avec des uploads fréquents de vidéos, il possible que certains ne soient pas bien réalisé ( coupure réseaux ).
 
-__Techniques :__ Application réalisé avec Nodejs, API Youtube 
+__Techniques :__ Application réalisé avec Nodejs, API Youtube
+
 __Compétences :__ Intéraction avec l'API YT et la gestion du mode d'Oauth
 
 ---
@@ -33,4 +35,5 @@ Applications permettant de gérer des cartes cadeaux en ligne :
 - Enregistrement de carte
 
 __Techniques :__ Réalisation sous symfony2, Jquery et bootstrap
+
 __Compétences :__ Création de template dynamique en Js, réalisation de fonctionalitées back-end 
