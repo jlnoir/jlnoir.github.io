@@ -14,13 +14,17 @@ A noté que cette application et commandable depuis une interface web ainsi :
 __Techniques :__ Application réalisée avec Java SEE, 
 Maven pour le déploiement, log4j pour les logs.
 __Compétences :__ Interacions avec un FTP, gestion des status et des cas particuliers
+
 ---
+
 2016 - 2015 KTO **Développement d'une application interne de gestion de compte YT**
 Application permettant de verifier la durée d'une vidéo sur le compte youtube
 Avec des uploads fréquents de vidéos, il possible que certains ne soient pas bien réalisé ( coupure réseaux ).
 __Techniques :__ Application réalisé avec Nodejs, API Youtube 
 __Compétences :__ Intéraction avec l'API YT et la gestion du mode d'Oauth
+
 ---
+
 2014 - 2013 Touchmods **Développement application gestion de carte cadeaux**
 Applications permettant de gérer des cartes cadeaux en ligne :
 - Achats de cartes
